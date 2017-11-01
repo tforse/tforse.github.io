@@ -3,7 +3,6 @@ CSS styling for the F&C Application Webpage
 */
 
 body {
-    background-image: url("#");
     color: #000305;
     font-size: 87.5%;
     font-family: Arial, 'Lucida Sans Unicode';
@@ -27,6 +26,7 @@ a:hover {
     margin: 0 auto;
     width: 70%;
     clear: both;
+    background-color: #7D7D81;
 }
 
 .mainHeader img {
@@ -94,7 +94,7 @@ a:hover {
 }
 
 .top-sidebar {
-    width: 25px;
+    width: 25%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -105,7 +105,7 @@ a:hover {
 }
 
 .middle-sidebar {
-    width: 25px;
+    width: 25%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -116,7 +116,7 @@ a:hover {
 }
 
 .bottom-sidebar {
-    width: 25px;
+    width: 25%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
