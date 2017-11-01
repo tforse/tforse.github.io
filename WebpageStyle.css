@@ -8,7 +8,7 @@ body {
     font-family: Arial, 'Lucida Sans Unicode';
     line-height: 1.5;
     text-align: left;
-    background-color: #7D7D81;
+    background-color: #0606EC;
 }
 
 a {
@@ -96,7 +96,7 @@ a:hover {
 
 .top-sidebar {
     width: 25%;
-    float: left;
+    float: right;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
@@ -107,7 +107,7 @@ a:hover {
 
 .middle-sidebar {
     width: 25%;
-    float: left;
+    float: right;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
@@ -118,7 +118,7 @@ a:hover {
 
 .bottom-sidebar {
     width: 25%;
-    float: left;
+    float: right;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
