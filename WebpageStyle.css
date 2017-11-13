@@ -96,7 +96,8 @@ a:hover {
 }
 
 .top-sidebar {
-    width: 21%;
+    height: 10%;
+    width: 28%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -106,15 +107,16 @@ a:hover {
 }
 
 .top-sidebar a img {
-    height: 8%;
-    width: 21%;
+    height: 100%;
+    width: 100%;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
 }
 
 .middle-sidebar {
-    width: 21%;
+    height: 10%;
+    width: 28%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -124,15 +126,16 @@ a:hover {
 }
 
 .middle-sidebar a img {
-    height: 8%;
-    width: 21%;
+    height: 100%;
+    width: 100%;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
 }
 
 .bottom-sidebar {
-    width: 21%;
+    height: 10%;
+    width: 28%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -142,8 +145,8 @@ a:hover {
 }
 
 .bottom-sidebar a img {
-    height: 8%;
-    width: 21%;
+    height: 100%;
+    width: 100%;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
