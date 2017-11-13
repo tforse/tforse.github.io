@@ -8,7 +8,7 @@ body {
     font-family: Arial, 'Lucida Sans Unicode';
     line-height: 1.5;
     text-align: left;
-    background-color: #D1D1D1;
+    background-color: #17107A;
 }
 
 a {
@@ -27,7 +27,7 @@ a:hover {
     margin: 0 auto;
     width: 70%;
     clear: both;
-    background-color: #D1D1D1;
+    background-color: #17107A;
 }
 
 .mainHeader nav {
