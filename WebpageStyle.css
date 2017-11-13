@@ -97,18 +97,19 @@ a:hover {
 
 .top-sidebar {
     height: 10%;
-    width: 26%;
+    width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
-    margin: 2% 0 2% 3%;
+    margin: 0 0 2% 3%;
 }
 
 .top-sidebar a img {
     height: 100%;
     width: 100%;
+    object-fit: contain;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -116,18 +117,19 @@ a:hover {
 
 .middle-sidebar {
     height: 10%;
-    width: 26%;
+    width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
-    margin: 2% 0 2% 3%;
+    margin: 0 0 2% 3%;
 }
 
 .middle-sidebar a img {
     height: 100%;
     width: 100%;
+    object-fit: contain;    
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -135,18 +137,19 @@ a:hover {
 
 .bottom-sidebar {
     height: 10%;
-    width: 26%;
+    width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
-    margin: 2% 0 2% 3%;
+    margin: 0 0 2% 3%;
 }
 
 .bottom-sidebar a img {
     height: 100%;
     width: 100%;
+    object-fit: contain;    
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
