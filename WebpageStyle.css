@@ -8,7 +8,7 @@ body {
     font-family: Arial, 'Lucida Sans Unicode';
     line-height: 1.5;
     text-align: left;
-    background-color: #17107A;
+    background-color: #D0D0D1;
 }
 
 a {
@@ -27,7 +27,7 @@ a:hover {
     margin: 0 auto;
     width: 70%;
     clear: both;
-    background-color: #17107A;
+    background-color: #D0D0D1;
 }
 
 .mainHeader nav {
@@ -105,6 +105,14 @@ a:hover {
     margin: 2% 0 2% 3%;
 }
 
+.top-sidebar a img {
+    height: 8%;
+    width: 21%;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+}
+
 .middle-sidebar {
     width: 21%;
     float: left;
@@ -115,6 +123,14 @@ a:hover {
     margin: 2% 0 2% 3%;
 }
 
+.middle-sidebar a img {
+    height: 8%;
+    width: 21%;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+}
+
 .bottom-sidebar {
     width: 21%;
     float: left;
@@ -123,6 +139,14 @@ a:hover {
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
     margin: 2% 0 2% 3%;
+}
+
+.bottom-sidebar a img {
+    height: 8%;
+    width: 21%;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
 }
 
 .mainFooter {
