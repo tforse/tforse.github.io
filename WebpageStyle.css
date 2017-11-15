@@ -158,6 +158,27 @@ a:hover {
     -webkit-border-radius: 5px;
 }
 
+.subbottom-sidebar {
+    height: 10%;
+    width: 27%;
+    float: left;
+    background-color: #FFF;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+    margin: 0 0 2% 3%;
+}
+
+.subbottom-sidebar a img {
+    height: 100%;
+    width: 100%;
+    vertical-align: bottom;
+    object-fit: fill;    
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
+}
+
 .mainFooter {
     width: 100%;
     float: left;
