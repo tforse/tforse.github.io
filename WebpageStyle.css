@@ -96,8 +96,8 @@ a:hover {
 }
 
 .top-sidebar {
-    height: 10%;
-    width: 27%;
+    max-height: 10%;
+    max-width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -117,8 +117,8 @@ a:hover {
 }
 
 .middle-sidebar {
-    height: 10%;
-    width: 27%;
+    max-height: 10%;
+    max-width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -138,8 +138,8 @@ a:hover {
 }
 
 .bottom-sidebar {
-    height: 10%;
-    width: 27%;
+    max-height: 10%;
+    max-width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -159,8 +159,8 @@ a:hover {
 }
 
 .subbottom-sidebar {
-    height: 10%;
-    width: 27%;
+    max-height: 10%;
+    max-width: 27%;
     float: left;
     background-color: #FFF;
     border-radius: 5px;
@@ -193,4 +193,5 @@ a:hover {
 .mainFooter p {
     width: 92%;
     margin: 2% auto;
+    line-height: 200px;
 }
