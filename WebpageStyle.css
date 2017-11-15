@@ -170,7 +170,6 @@ a:hover {
 }
 
 .mainFooter p {
-    margin: 2% 3%;
-    display: inline;
-    padding: 5px 0 5px 0;
+    width: 92%;
+    margin: 2% auto;
 }
