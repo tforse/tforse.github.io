@@ -110,7 +110,7 @@ a:hover {
     max-height: 100%;
     max-width: 100%;
     vertical-align: bottom;
-    object-fit: cover;
+    object-fit: fill;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -131,7 +131,7 @@ a:hover {
     max-height: 100%;
     max-width: 100%;
     vertical-align: bottom;   
-    object-fit: cover;    
+    object-fit: fill;    
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -152,7 +152,7 @@ a:hover {
     max-height: 100%;
     max-width: 100%;
     vertical-align: bottom;
-    object-fit: cover;    
+    object-fit: fill;    
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -173,7 +173,7 @@ a:hover {
     max-height: 100%;
     max-width: 100%;
     vertical-align: bottom;
-    object-fit: cover;    
+    object-fit: fill;    
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
