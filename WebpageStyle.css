@@ -96,7 +96,7 @@ a:hover {
 }
 
 .top-sidebar {
-    max-height: 10%;
+    max-height: 100px;
     max-width: 27%;
     float: left;
     background-color: #FFF;
@@ -117,7 +117,7 @@ a:hover {
 }
 
 .middle-sidebar {
-    max-height: 10%;
+    max-height: 100px;
     max-width: 27%;
     float: left;
     background-color: #FFF;
@@ -138,7 +138,7 @@ a:hover {
 }
 
 .bottom-sidebar {
-    max-height: 10%;
+    max-height: 100px;
     max-width: 27%;
     float: left;
     background-color: #FFF;
@@ -159,7 +159,7 @@ a:hover {
 }
 
 .subbottom-sidebar {
-    max-height: 10%;
+    max-height: 100px;
     max-width: 27%;
     float: left;
     background-color: #FFF;
@@ -192,6 +192,5 @@ a:hover {
 
 .mainFooter p {
     width: 92%;
-    margin: 2% auto;
-    line-height: 200px;
+    margin: 1% auto;
 }
