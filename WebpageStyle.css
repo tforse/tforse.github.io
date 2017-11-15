@@ -96,7 +96,7 @@ a:hover {
 }
 
 .top-sidebar {
-    height: 10%;
+    height: 100px;
     width: 27%;
     float: left;
     background-color: #FFF;
@@ -117,7 +117,7 @@ a:hover {
 }
 
 .middle-sidebar {
-    height: 10%;
+    height: 100px;
     width: 27%;
     float: left;
     background-color: #FFF;
@@ -138,7 +138,7 @@ a:hover {
 }
 
 .bottom-sidebar {
-    height: 10%;
+    height: 100px;
     width: 27%;
     float: left;
     background-color: #FFF;
@@ -159,7 +159,7 @@ a:hover {
 }
 
 .subbottom-sidebar {
-    height: 10%;
+    height: 100px;
     width: 27%;
     float: left;
     background-color: #FFF;
