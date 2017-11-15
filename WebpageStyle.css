@@ -110,7 +110,10 @@ a:hover {
     height: 100%;
     width: 100%;
     vertical-align: bottom;
+<<<<<<< HEAD
     object-fit: cover;
+=======
+>>>>>>> 5f4632405e622d1a1447bd1051c1323e4d2d1309
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -130,8 +133,12 @@ a:hover {
 .middle-sidebar a img {
     height: 100%;
     width: 100%;
+<<<<<<< HEAD
     vertical-align: bottom;   
     object-fit: cover;    
+=======
+    vertical-align: bottom;      
+>>>>>>> 5f4632405e622d1a1447bd1051c1323e4d2d1309
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -151,8 +158,12 @@ a:hover {
 .bottom-sidebar a img {
     height: 100%;
     width: 100%;
+<<<<<<< HEAD
     vertical-align: bottom;
     object-fit: cover;    
+=======
+    vertical-align: bottom;  
+>>>>>>> 5f4632405e622d1a1447bd1051c1323e4d2d1309
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -172,8 +183,12 @@ a:hover {
 .subbottom-sidebar a img {
     height: 100%;
     width: 100%;
+<<<<<<< HEAD
     vertical-align: bottom;
     object-fit: cover;    
+=======
+    vertical-align: bottom;   
+>>>>>>> 5f4632405e622d1a1447bd1051c1323e4d2d1309
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
