@@ -110,7 +110,6 @@ a:hover {
     height: 100%;
     width: 100%;
     vertical-align: bottom;
-    object-fit: fill;
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -130,8 +129,7 @@ a:hover {
 .middle-sidebar a img {
     height: 100%;
     width: 100%;
-    vertical-align: bottom;   
-    object-fit: fill;    
+    vertical-align: bottom;      
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -151,8 +149,7 @@ a:hover {
 .bottom-sidebar a img {
     height: 100%;
     width: 100%;
-    vertical-align: bottom;
-    object-fit: fill;    
+    vertical-align: bottom;  
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
@@ -172,8 +169,7 @@ a:hover {
 .subbottom-sidebar a img {
     height: 100%;
     width: 100%;
-    vertical-align: bottom;
-    object-fit: fill;    
+    vertical-align: bottom;   
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
