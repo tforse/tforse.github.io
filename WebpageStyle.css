@@ -248,25 +248,25 @@ a:hover {
 
     .top-sidebar {
         height: 100px;
-        width: 100%;
+        width: 50%;
         margin: 0 0 4% 0;
     }
     
     .middle-sidebar {
         height: 100px;
-        width: 100%;
+        width: 50%;
         margin: 0 0 4% 0;
     }
     
     .bottom-sidebar {
         height: 100px;
-        width: 100%;
+        width: 50%;
         margin: 0 0 4% 0;
     }
     
     .subbottom-sidebar {
         height: 100px;
-        width: 100%;
+        width: 50%;
         margin: 0 0 2% 0;
     }
 }
