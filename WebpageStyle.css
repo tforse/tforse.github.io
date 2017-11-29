@@ -36,7 +36,8 @@ a:hover {
     border-radius: 5px;
     -moz-border-radius: 5px; 
     -webkit-border-radius: 5px;
-    margin: 2% auto;    
+    margin: 2% auto;
+    box-shadow: 0 2px 7px 0 rgba(0,0,0,.16), 0 0 2px 0 rgba(0,0,0,.12);    
 }
 
 .mainHeader nav ul {
@@ -79,18 +80,18 @@ a:hover {
 }
 
 .firstArt {
-    border-radius: 0;
-    -moz-border-radius: 0; 
-    -webkit-border-radius: 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
     background-color: #FFF;
     padding: 1% 5%;
     box-shadow: 0 2px 7px 0 rgba(0,0,0,.16), 0 0 2px 0 rgba(0,0,0,.12);
 }
 
 .secondArt {
-    border-radius: 0;
-    -moz-border-radius: 0; 
-    -webkit-border-radius: 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px; 
+    -webkit-border-radius: 5px;
     background-color: #FFF;
     padding: 1% 5%;
     margin-top: 2%;
@@ -195,6 +196,7 @@ a:hover {
     background-color: #7D7D81;
     margin: 2% 0;
     display: table;
+    box-shadow: 0 2px 7px 0 rgba(0,0,0,.16), 0 0 2px 0 rgba(0,0,0,.12);
 }
 
 .mainFooter address {
@@ -236,22 +238,30 @@ a:hover {
         margin-top: 2%;
     }
 
+    .firstArt {
+        margin: 0 0 4% 0;
+    }
+    
+    .secondArt {
+        margin: 0 0 4% 0;
+    }
+
     .top-sidebar {
         height: 100px;
         width: 100%;
-        margin: 0 0 2% 0;
+        margin: 0 0 4% 0;
     }
     
     .middle-sidebar {
         height: 100px;
         width: 100%;
-        margin: 0 0 2% 0;
+        margin: 0 0 4% 0;
     }
     
     .bottom-sidebar {
         height: 100px;
         width: 100%;
-        margin: 0 0 2% 0;
+        margin: 0 0 4% 0;
     }
     
     .subbottom-sidebar {
