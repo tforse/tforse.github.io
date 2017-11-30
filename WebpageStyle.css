@@ -98,6 +98,11 @@ a:hover {
     box-shadow: 0 2px 7px 0 rgba(0,0,0,.16), 0 0 2px 0 rgba(0,0,0,.12);
 }
 
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
 .top-sidebar {
     height: 100px;
     width: 27%;
